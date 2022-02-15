@@ -41,6 +41,6 @@
 
     ?>
     </table>
-    <div></div>
+    <div>Total User<?=count($post)?></div>
 </body>
 </html>
